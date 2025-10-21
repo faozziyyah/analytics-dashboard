@@ -93,9 +93,10 @@ export default function Login() {
           
         </form>
 
-        <div className="mt-6 text-xs text-gray-500 text-center">
+        {/*<div className="mt-6 text-xs text-gray-500 text-center">
           Test with <strong>admin@example.com / Password1!</strong>
-        </div>
+        </div>*/}
+        
       </div>
     </div>
   );
